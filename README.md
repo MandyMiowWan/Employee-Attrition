@@ -1,4 +1,4 @@
-# Employee Attrition Analysis
+# Employee Attrition System (EAS)
 
 ### Group 6: The Roku Group <br>
 Sim Lin Zheng	  S2102170 <br>
