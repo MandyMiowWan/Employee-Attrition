@@ -7,4 +7,4 @@ Yin Khar Shin	  S2145827 <br>
 Gui Miow Wan	  S2118013 <br>
 Ooi Shi Yuan	  17088226 <br>
  <br>
-URL: https://mandygui.shinyapps.io/EmployeeAttritionAnalysis/
+Shiny App URL: https://mandygui.shinyapps.io/EmployeeAttritionAnalysis/
